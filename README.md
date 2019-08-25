@@ -1,4 +1,4 @@
-# resourcemarks
+# Data Science Learning Path
 This repository is created for personal use. But if need, anyone can see, follow or anything else.. 
 
 ## Machine Learnig 
